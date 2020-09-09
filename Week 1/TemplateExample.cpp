@@ -56,6 +56,7 @@ private:
 };
 
 // main
+/*
 int main()
 {
 	cout << "Template Example" << endl << endl;
@@ -67,3 +68,4 @@ int main()
 
 	return 0;
 }
+*/
